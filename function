@@ -1,0 +1,8 @@
+function olaFuturosDevs(){
+  console.log('Eu serei um Dev FULLSTACK !!');
+}
+function serDevEhLegal(){
+  console.log('É super legal ser desenvolvedor');
+}
+olaFuturosDevs();
+serDevEhLegal();
