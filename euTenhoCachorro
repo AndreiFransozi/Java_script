@@ -1,0 +1,12 @@
+let euTenhoCachorro = false;
+let marianaTemCachorro = false;
+if(marianaTemCachorro){
+  console.log('Mariana tem um cachorro!')
+}else{
+  console.log('Mariana não tem um cachorro!')
+}
+if(euTenhoCachorro){
+  console.log('Eu Tenho Cachorro!')
+}else{
+  console.log('Eu Não Tenho Cachorro!')
+}
