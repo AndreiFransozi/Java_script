@@ -1,0 +1,16 @@
+let gastosDoDani = 10;
+let gastosDoFelipe = 12;
+let gastosDaMariana = 19;
+let gastosDoAndrei = 20;
+function calcularTotalRefeicao(valor1, valor2, valor3, valor4){
+ 
+  let total = valor1 + valor2 + valor3 + valor4;
+ 
+  if(total > 100){
+    console.log("Ihh, acho que exageramos!!!")
+  }else{
+    console.log('Valeu muito a pena!!')
+  }
+  console.log(total)
+}
+calcularTotalRefeicao(gastosDoDani, gastosDoFelipe, gastosDaMariana, gastosDoAndrei)
