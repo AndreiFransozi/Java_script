@@ -1,0 +1,20 @@
+let minhaIdade = 21;
+let idadeMariana = 24;
+
+ let soma = minhaIdade + idadeMariana;
+console.log(soma)
+
+let subtracao = minhaIdade - idadeMariana;
+console.log(subtracao)
+
+let multiplicacao = minhaIdade * idadeMariana;
+console.log(multiplicacao)
+
+let divisao = minhaIdade / idadeMariana;
+console.log(divisao)
+
+let resto = minhaIdade % idadeMariana;
+console.log(resto)
+
+let exponeciacao = minhaIdade ^ idadeMariana;
+console.log(exponeciacao)
