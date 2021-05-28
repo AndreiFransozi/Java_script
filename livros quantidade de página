@@ -1,0 +1,13 @@
+let livros = [
+  {titulo: 'Harry Potter e a Câmara Secreta', qntPaginas: 299},
+  {titulo: 'Guy Gardner Guerreiro 22', qntPaginas: 23},
+  {titulo: 'Dia do Julgamento', qntPaginas: 31},
+  {titulo: 'Superman & Adam Strange', qntPaginas: 26}
+]
+for(let i = 0; 1< livros.length ; i++){
+  if(livros[i].qntPaginas <= 50){
+    console.log(livros[i].titulo + ": tem menos de 50 páginas")
+  }else{
+    console.log(livros[i].titulo + ": tem mais de 50 páginas")
+  }
+  }
