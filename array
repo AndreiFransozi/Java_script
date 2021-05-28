@@ -1,0 +1,9 @@
+let numeros = [14, 2, 3, 10, 400]
+let nomes = ['João', 'Daniel', 'Patrick', 'Marina']
+let produto = {
+nome: 'tv',
+preco: 1200
+}
+let produtos = [{nome: 'tv', preco: 1200}, {nome: 'Sofa', preco: 600}]
+let mista = [28, "Filipe", {nome: 'tv', preco: 1200}, [1,4,6]]
+console.log(numeros)
