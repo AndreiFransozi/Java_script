@@ -1,0 +1,13 @@
+function oddOrEven(array) {
+
+let results = 0
+
+for (let index = 0; index < array.length; index++){
+ results+=array[index]
+ if (results % 2 === 0 ){
+  return "even"
+  } else {
+    return "odd"
+    }
+  }
+}
