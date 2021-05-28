@@ -1,0 +1,5 @@
+let nomes = ['João', 'Daniel', 'Patrick', 'Marina']
+
+let meuIndex = nomes.indexOf("Patrick");
+
+console.log(meuIndex);
