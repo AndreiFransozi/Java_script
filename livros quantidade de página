@@ -1,13 +1,24 @@
 let livros = [
-  {titulo: 'Harry Potter e a Câmara Secreta', qntPaginas: 299},
-  {titulo: 'Guy Gardner Guerreiro 22', qntPaginas: 23},
-  {titulo: 'Dia do Julgamento', qntPaginas: 31},
-  {titulo: 'Superman & Adam Strange', qntPaginas: 26}
-]
-for(let i = 0; 1< livros.length ; i++){
-  if(livros[i].qntPaginas <= 50){
-    console.log(livros[i].titulo + ": tem menos de 50 páginas")
-  }else{
-    console.log(livros[i].titulo + ": tem mais de 50 páginas")
-  }
-  }
+    {titulo: 'Harry Potter e a Câmara Secreta', qntPaginas: 299},
+    {titulo: 'Guy Gardner Guerreiro 22', qntPaginas: 23},
+    {titulo: 'Dia do Julgamento', qntPaginas: 31},
+    {titulo: 'Superman & Adam Strange', qntPaginas: 26}
+    {titulo: 'Guy Gardner Guerreiro 17', qntPaginas: 23}
+    {titulo: 'Guy Gardner Guerreiro 18', qntPaginas: 22}
+    {titulo: 'Guy Gardner Guerreiro 19', qntPaginas: 23}
+    {titulo: 'Guy Gardner Guerreiro 20', qntPaginas: 23}
+    {titulo: 'Guy Gardner Guerreiro 21', qntPaginas: 20}
+    {titulo: 'Guy Gardner Guerreiro 23', qntPaginas: 23}
+    {titulo: 'Guy Gardner Guerreiro 24', qntPaginas: 25}
+    {titulo: 'Guy Gardner Guerreiro 25', qntPaginas: 22}
+    {titulo: 'Guy Gardner Guerreiro 26', qntPaginas: 23}
+    {titulo: 'Guy Gardner Guerreiro 27', qntPaginas: 24}
+    {titulo: 'Guy Gardner Guerreiro 28', qntPaginas: 23}
+  ]
+  for(let i = 0; 1< livros.length ; i++){
+    if(livros[i].qntPaginas <= 50){
+      console.log(livros[i].titulo + ": tem menos de 50 páginas")
+    }else{
+      console.log(livros[i].titulo + ": tem mais de 50 páginas")
+    }
+    }
