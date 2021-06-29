@@ -1,0 +1,3669 @@
+console.log("Digite o numero da pokedex: ");
+else if (nationaldex == 1)
+{
+console.log("Bulbasaur");
+    }
+else if (nationaldex == 2)
+{
+console.log("Ivysaur");
+    }
+else if (nationaldex == 3)
+{
+console.log("Venusaur");
+    }
+else if (nationaldex == 4)
+{
+console.log("Charmander");
+    }
+else if (nationaldex == 5)
+{
+console.log("Charmeleon");
+    }
+else if (nationaldex == 6)
+{
+console.log("Charizard");
+    }
+else if (nationaldex == 7)
+{
+console.log("Squirtle");
+    }
+else if (nationaldex == 8)
+{
+console.log("Wartortle");
+    }
+else if (nationaldex == 9)
+{
+console.log("Blastoise");
+    }
+else if (nationaldex == 10)
+{
+console.log("Caterpie");
+    }
+else if (nationaldex == 11)
+{
+console.log("Metapod");
+    }
+else if (nationaldex == 12)
+{
+console.log("Butterfree");
+    }
+else if (nationaldex == 13)
+{
+console.log("Weedle");
+    }
+else if (nationaldex == 14)
+{
+console.log("Kakuna");
+    }
+else if (nationaldex == 15)
+{
+console.log("Beedrill");
+    }
+else if (nationaldex == 16)
+{
+console.log("Pidgey");
+    }
+else if (nationaldex == 17)
+{
+console.log("Pidgeotto");
+    }
+else if (nationaldex == 18)
+{
+console.log("Pidgeot");
+    }
+else if (nationaldex == 19)
+{
+console.log("Rattata");
+    }
+else if (nationaldex == 20)
+{
+console.log("Raticate");
+    }
+else if (nationaldex == 21)
+{
+console.log("Spearow");
+    }
+else if (nationaldex == 22)
+{
+console.log("Fearow");
+    }
+else if (nationaldex == 23)
+{
+console.log("Ekans");
+    }
+else if (nationaldex == 24)
+{
+console.log("Arbok");
+    }
+else if (nationaldex == 25)
+{
+console.log("Pikachu");
+    }
+else if (nationaldex == 26)
+{
+console.log("Raichu");
+    }
+else if (nationaldex == 27)
+{
+console.log("Sandshrew");
+    }
+else if (nationaldex == 28)
+{
+console.log("Sandslash");
+    }
+else if (nationaldex == 29)
+{
+console.log("Nidoran♀");
+    }
+else if (nationaldex == 30)
+{
+console.log("Nidorina");
+    }
+else if (nationaldex == 31)
+{
+console.log("Nidoqueen");
+    }
+else if (nationaldex == 32)
+{
+console.log("Nidoran♂");
+    }
+else if (nationaldex == 33)
+{
+console.log("Nidorino");
+    }
+else if (nationaldex == 34)
+{
+console.log("Nidoking");
+    }
+else if (nationaldex == 35)
+{
+console.log("Clefairy");
+    }
+else if (nationaldex == 36)
+{
+console.log("Clefable");
+    }
+else if (nationaldex == 37)
+{
+console.log("Vulpix");
+    }
+else if (nationaldex == 38)
+{
+console.log("Ninetales");
+    }
+else if (nationaldex == 39)
+{
+console.log("Jigglypuff");
+    }
+else if (nationaldex == 40)
+{
+console.log("Wigglytuff");
+    }
+else if (nationaldex == 41)
+{
+console.log("Zubat");
+    }
+else if (nationaldex == 42)
+{
+console.log("Golbat");
+    }
+else if (nationaldex == 43)
+{
+console.log("Oddish");
+    }
+else if (nationaldex == 44)
+{
+console.log("Gloom");
+    }
+else if (nationaldex == 45)
+{
+console.log("Vileplume");
+    }
+else if (nationaldex == 46)
+{
+console.log("Paras");
+    }
+else if (nationaldex == 47)
+{
+console.log("Parasect");
+    }
+else if (nationaldex == 48)
+{
+console.log("Venonat");
+    }
+else if (nationaldex == 49)
+{
+console.log("Venomoth");
+    }
+else if (nationaldex == 50)
+{
+console.log("Diglett");
+    }
+else if (nationaldex == 51)
+{
+console.log("Dugtrio");
+    }
+else if (nationaldex == 52)
+{
+console.log("Meowth");
+    }
+else if (nationaldex == 53)
+{
+console.log("Persian");
+    }
+else if (nationaldex == 54)
+{
+console.log("Psyduck");
+    }
+else if (nationaldex == 55)
+{
+console.log("Golduck");
+    }
+else if (nationaldex == 56)
+{
+console.log("Mankey");
+    }
+else if (nationaldex == 57)
+{
+console.log("Primeape");
+    }
+else if (nationaldex == 58)
+{
+console.log("Growlithe");
+    }
+else if (nationaldex == 59)
+{
+console.log("Arcanine");
+    }
+else if (nationaldex == 60)
+{
+console.log("Poliwag");
+    }
+else if (nationaldex == 61)
+{
+console.log("Poliwhirl");
+    }
+else if (nationaldex == 62)
+{
+console.log("Poliwrath");
+    }
+else if (nationaldex == 63)
+{
+console.log("Abra");
+    }
+else if (nationaldex == 64)
+{
+console.log("Kadabra");
+    }
+else if (nationaldex == 65)
+{
+console.log("Alakazam");
+    }
+else if (nationaldex == 66)
+{
+console.log("Machop");
+    }
+else if (nationaldex == 67)
+{
+console.log("Machoke");
+    }
+else if (nationaldex == 68)
+{
+console.log("Machamp");
+    }
+else if (nationaldex == 69)
+{
+console.log("Bellsprout");
+    }
+else if (nationaldex == 70)
+{
+console.log("Weepinbell");
+    }
+else if (nationaldex == 71)
+{
+console.log("Victreebel");
+    }
+else if (nationaldex == 72)
+{
+console.log("Tentacool");
+    }
+else if (nationaldex == 73)
+{
+console.log("Tentacruel");
+    }
+else if (nationaldex == 74)
+{
+console.log("Geodude");
+    }
+else if (nationaldex == 75)
+{
+console.log("Graveler");
+    }
+else if (nationaldex == 76)
+{
+console.log("Golem");
+    }
+else if (nationaldex == 77)
+{
+console.log("Ponyta");
+    }
+else if (nationaldex == 78)
+{
+console.log("Rapidash");
+    }
+else if (nationaldex == 79)
+{
+console.log("Slowpoke");
+    }
+else if (nationaldex == 80)
+{
+console.log("Slowbro");
+    }
+else if (nationaldex == 81)
+{
+console.log("Magnemite");
+    }
+else if (nationaldex == 82)
+{
+console.log("Magneton");
+    }
+else if (nationaldex == 83)
+{
+console.log("Farfetch'd");
+    }
+else if (nationaldex == 84)
+{
+console.log("Doduo");
+    }
+else if (nationaldex == 85)
+{
+console.log("Dodrio");
+    }
+else if (nationaldex == 86)
+{
+console.log("Seel");
+    }
+else if (nationaldex == 87)
+{
+console.log("Dewgong");
+    }
+else if (nationaldex == 88)
+{
+console.log("Grimer");
+    }
+else if (nationaldex == 89)
+{
+console.log("Muk");
+    }
+else if (nationaldex == 90)
+{
+console.log("Shellder");
+    }
+else if (nationaldex == 91)
+{
+console.log("Cloyster");
+    }
+else if (nationaldex == 92)
+{
+console.log("gastly");
+    }
+else if (nationaldex == 93)
+{
+console.log("Haunter");
+    }
+else if (nationaldex == 94)
+{
+console.log("Gengar");
+    }
+else if (nationaldex == 95)
+{
+console.log("Onix");
+    }
+else if (nationaldex == 96)
+{
+console.log("Drowzee");
+    }
+else if (nationaldex == 97)
+{
+console.log("Hypno");
+    }
+else if (nationaldex == 98)
+{
+console.log("Krabby");
+    }
+else if (nationaldex == 99)
+{
+console.log("Kingler");
+    }
+else if (nationaldex == 100)
+{
+console.log("Voltorb");
+    }
+else if (nationaldex == 101)
+    {
+console.log("Electrode");
+        }
+else if (nationaldex == 102)
+    {
+console.log("Exeggcute");
+        }
+else if (nationaldex == 103)
+    {
+console.log("Exeggutor");
+        }
+else if (nationaldex == 104)
+    {
+console.log("Cubone");
+        }
+ else if (nationaldex == 105)
+    {
+console.log("Marowak");
+        }
+else if (nationaldex == 106)
+    {
+console.log("Hitmonlee");
+        }
+else if (nationaldex == 107)
+    {
+console.log("Hitmonchan");
+        }
+else if (nationaldex == 108)
+    {
+console.log("Lickitung");
+        }
+else if (nationaldex == 109)
+    {
+console.log("Koffing");
+        }
+else if (nationaldex == 110)
+    {
+console.log("weezing");
+        }
+else if (nationaldex == 111)
+    {
+console.log("Rhyhorn");
+        }
+else if (nationaldex == 112)
+    {
+console.log("Rhydon");
+        }
+else if (nationaldex == 113)
+    {
+console.log("Chansey");
+        }
+else if (nationaldex == 114)
+    {
+console.log("Tangela");
+        }
+ else if (nationaldex == 115)
+    {
+console.log("Kangaskhan");
+        }
+ else if (nationaldex == 116)
+    {
+console.log("Horsea");
+        }
+ else if (nationaldex == 117)
+    {
+console.log("Seadra");
+        }
+ else if (nationaldex == 118)
+    {
+console.log("Goldeen");
+        }
+ else if (nationaldex == 119)
+    {
+console.log("Seaking");
+        }
+ else if (nationaldex == 120)
+    {
+console.log("Staryu");
+        }
+ else if (nationaldex == 121)
+    {
+console.log("Starmie");
+        }
+ else if (nationaldex == 122)
+    {
+console.log("Mr. Mime");
+        }
+ else if (nationaldex == 123)
+    {
+console.log("Scyther");
+        }
+ else if (nationaldex == 124)
+
+    {
+console.log("Jynx");
+        }
+ else if (nationaldex == 125)
+    {
+console.log("Electabuzz");
+        }
+ else if (nationaldex == 126)
+    {
+console.log("Magmar");
+        }
+ else if (nationaldex == 127)
+    {
+console.log("Pinsir");
+        }
+ else if (nationaldex == 128)
+    {
+console.log("Tauros");
+        }
+ else if (nationaldex == 129)
+    {
+console.log("Magikarp");
+        }
+ else if (nationaldex == 130)
+    {
+console.log("Gyarados");
+        }
+ else if (nationaldex == 131)
+    {
+console.log("Lapras");
+        }
+ else if (nationaldex == 132)
+
+    {
+console.log("Ditto");
+        }
+ else if (nationaldex == 133)
+    {
+console.log("Eevee");
+        }
+ else if (nationaldex == 134)
+    {
+console.log("Vaporeon");
+        }
+ else if (nationaldex == 135)
+    {
+console.log("Jolteon");
+        }
+ else if (nationaldex == 136)
+    {
+console.log("Flareon");
+        }
+ else if (nationaldex == 137)
+    {
+console.log("Porygon");
+        }
+ else if (nationaldex == 138)
+    {
+console.log("Omanyte");
+        }
+ else if (nationaldex == 139)
+    {
+console.log("Omastar");
+        }
+ else if (nationaldex == 140)
+
+    {
+console.log("Kabuto");
+        }
+ else if (nationaldex == 141)
+    {
+console.log("Kabutops");
+        }
+ else if (nationaldex == 142)
+    {
+console.log("Aerodactyl");
+        }
+ else if (nationaldex == 143)
+    {
+console.log("Snorlax");
+        }
+ else if (nationaldex == 144)
+    {
+console.log("Articuno");
+        }
+ else if (nationaldex == 145)
+    {
+console.log("Zapdos");
+        }
+ else if (nationaldex == 146)
+    {
+console.log("Moltres");
+        }
+ else if (nationaldex == 147)
+    {
+console.log("Dratini");
+        }
+ else if (nationaldex == 148)
+
+    {
+console.log("Dragonair");
+        }
+ else if (nationaldex == 149)
+    {
+console.log("Dragonite");
+        }
+ else if (nationaldex == 150)
+    {
+console.log("Mewtwo");
+        }
+ else if (nationaldex == 151)
+    {
+console.log("Mew");
+        }
+ else if (nationaldex == 152)
+    {
+console.log("Chikorita");
+        }
+ else if (nationaldex == 153)
+    {
+console.log("Bayleef");
+        }
+ else if (nationaldex == 154)
+    {
+console.log("Meganium");
+        }
+ else if (nationaldex == 155)
+    {
+console.log("Cyndaquil ");
+        }
+ else if (nationaldex == 156)
+
+    {
+console.log("Quilava");
+        }
+ else if (nationaldex == 157)
+    {
+console.log("Typhlosion");
+        }
+ else if (nationaldex == 158)
+    {
+console.log("Totodile");
+        }
+ else if (nationaldex == 159)
+    {
+console.log("Croconaw");
+        }
+ else if (nationaldex == 160)
+    {
+console.log("Feraligatr");
+        }
+ else if (nationaldex == 161)
+    {
+console.log("Sentret");
+        }
+ else if (nationaldex == 162)
+    {
+console.log("Furret");
+        }
+ else if (nationaldex == 163)
+    {
+console.log("Hoothoot");
+        }
+ else if (nationaldex == 164)
+
+    {
+console.log("Noctowl");
+        }
+ else if (nationaldex == 165)
+    {
+console.log("Ledyba");
+        }
+ else if (nationaldex == 166)
+    {
+console.log("Ledian");
+        }
+ else if (nationaldex == 167)
+    {
+console.log("Spinarak");
+        }
+ else if (nationaldex == 168)
+    {
+console.log("Ariados");
+        }
+ else if (nationaldex == 169)
+    {
+console.log("Crobat");
+        }
+ else if (nationaldex == 170)
+    {
+console.log("Chinchou");
+        }
+ else if (nationaldex == 171)
+    {
+console.log("Lanturn");
+        }
+ else if (nationaldex == 172)
+
+    {
+console.log("Pichu");
+        }
+ else if (nationaldex == 173)
+    {
+console.log("Cleffa");
+        }
+ else if (nationaldex == 174)
+    {
+console.log("Igglybuff");
+        }
+ else if (nationaldex == 175)
+    {
+console.log("Togepi");
+        }
+ else if (nationaldex == 176)
+    {
+console.log("Togetic");
+        }
+ else if (nationaldex == 177)
+    {
+console.log("Natu");
+        }
+ else if (nationaldex == 178)
+    {
+console.log("Xatu");
+        }
+ else if (nationaldex == 179)
+    {
+console.log("Mareep");
+        }
+ else if (nationaldex == 180)
+
+    {
+console.log("Flaaffy");
+        }
+ else if (nationaldex == 181)
+    {
+console.log("Ampharos");
+        }
+ else if (nationaldex == 182)
+    {
+console.log("Bellossom");
+        }
+ else if (nationaldex == 183)
+    {
+console.log("Marill");
+        }
+ else if (nationaldex == 184)
+    {
+console.log("Azumarill");
+        }
+ else if (nationaldex == 185)
+    {
+console.log("Sudowoodo");
+        }
+ else if (nationaldex == 186)
+    {
+console.log("Politoed");
+        }
+ else if (nationaldex == 187)
+    {
+console.log("Hoppip");
+        }
+ else if (nationaldex == 188)
+
+    {
+console.log("Skiploom");
+        }
+ else if (nationaldex == 189)
+    {
+console.log("Jumpluff");
+        }
+ else if (nationaldex == 190)
+    {
+console.log("Aipom");
+        }
+ else if (nationaldex == 191)
+    {
+console.log("Sunkern");
+        }
+ else if (nationaldex == 192)
+    {
+console.log("Sunflora");
+        }
+ else if (nationaldex == 193)
+    {
+console.log("Yanma");
+        }
+ else if (nationaldex == 194)
+    {
+console.log("Wooper");
+        }
+ else if (nationaldex == 195)
+    {
+console.log("Quagsire");
+        }
+ else if (nationaldex == 196)
+
+    {
+console.log("Espeon");
+        }
+ else if (nationaldex == 197)
+    {
+console.log("Umbreon");
+        }
+ else if (nationaldex == 198)
+    {
+console.log("Murkrow");
+        }
+ else if (nationaldex == 199)
+    {
+console.log("Slowking");
+        }
+ else if (nationaldex == 200)
+    {
+console.log("Misdreavus");
+        }
+     else if (nationaldex == 201)
+        {
+    console.log("Unown");
+            }
+     else if (nationaldex == 202)
+        {
+    console.log("Wobbuffet");
+            }
+     else if (nationaldex == 203)
+        {
+    console.log("Girafarig");
+            }
+     else if (nationaldex == 204)
+        {
+    console.log("Pineco");
+            }
+     else if (nationaldex == 205)
+        {
+    console.log("Forretress");
+            }
+     else if (nationaldex == 206)
+        {
+    console.log("Dunsparce");
+            }
+     else if (nationaldex == 207)
+        {
+    console.log("Gligar");
+            }
+     else if (nationaldex == 208)
+
+        {
+    console.log("Steelix");
+            }
+     else if (nationaldex == 209)
+        {
+    console.log("Snubbull");
+            }
+     else if (nationaldex == 210)
+        {
+    console.log("Granbull");
+            }
+     else if (nationaldex == 211)
+        {
+    console.log("Qwilfish");
+            }
+     else if (nationaldex == 212)
+        {
+    console.log("Scizor");
+            }
+     else if (nationaldex == 213)
+        {
+    console.log("Shuckle");
+            }
+     else if (nationaldex == 214)
+        {
+    console.log("Heracross");
+            }
+     else if (nationaldex == 215)
+        {
+    console.log("Sneasel");
+            }
+     else if (nationaldex == 216)
+
+        {
+    console.log("Teddiursa");
+            }
+     else if (nationaldex == 217)
+        {
+    console.log("Ursaring");
+            }
+     else if (nationaldex == 218)
+        {
+    console.log("Slugma");
+            }
+     else if (nationaldex == 219)
+        {
+    console.log("Magcargo");
+            }
+     else if (nationaldex == 220)
+        {
+    console.log("Swinub");
+            }
+     else if (nationaldex == 221)
+        {
+    console.log("Piloswine");
+            }
+     else if (nationaldex == 222)
+        {
+    console.log("Corsola");
+            }
+     else if (nationaldex == 223)
+        {
+    console.log("Remoraid");
+            }
+     else if (nationaldex == 224)
+
+        {
+    console.log("Octillery");
+            }
+     else if (nationaldex == 225)
+        {
+    console.log("Delibird");
+            }
+     else if (nationaldex == 226)
+        {
+    console.log("Mantine");
+            }
+     else if (nationaldex == 227)
+        {
+    console.log("Skarmory");
+            }
+     else if (nationaldex == 228)
+        {
+    console.log("Houndour");
+            }
+     else if (nationaldex == 229)
+        {
+    console.log("Houndoom");
+            }
+     else if (nationaldex == 230)
+        {
+    console.log("Kingdra");
+            }
+     else if (nationaldex == 231)
+        {
+    console.log("Phanpy");
+            }
+     else if (nationaldex == 232)
+
+        {
+    console.log("Donphan");
+            }
+     else if (nationaldex == 233)
+        {
+    console.log("Porygon2");
+            }
+     else if (nationaldex == 234)
+        {
+    console.log("Stantler");
+            }
+     else if (nationaldex == 235)
+        {
+    console.log("Smeargle");
+            }
+     else if (nationaldex == 236)
+        {
+    console.log("Tyrogue");
+            }
+     else if (nationaldex == 237)
+        {
+    console.log("Hitmontop");
+            }
+     else if (nationaldex == 238)
+        {
+    console.log("Smoochum");
+            }
+     else if (nationaldex == 239)
+        {
+    console.log("Elekid");
+            }
+     else if (nationaldex == 240)
+
+        {
+    console.log("Magby");
+            }
+     else if (nationaldex == 241)
+        {
+    console.log("Miltank");
+            }
+     else if (nationaldex == 242)
+        {
+    console.log("Blissey");
+            }
+     else if (nationaldex == 243)
+        {
+    console.log("Raikou");
+            }
+     else if (nationaldex == 244)
+        {
+    console.log("Entei");
+            }
+     else if (nationaldex == 245)
+        {
+    console.log("Suicune");
+            }
+     else if (nationaldex == 246)
+        {
+    console.log("Larvitar");
+            }
+     else if (nationaldex == 247)
+        {
+    console.log("Pupitar");
+            }
+     else if (nationaldex == 248)
+
+        {
+    console.log("Tyranitar");
+            }
+     else if (nationaldex == 249)
+        {
+    console.log("Lugia");
+            }
+     else if (nationaldex == 250)
+        {
+    console.log("Ho-Oh");
+            }
+     else if (nationaldex == 251)
+        {
+    console.log("Celebi");
+            }
+     else if (nationaldex == 252)
+        {
+    console.log("Treecko");
+            }
+     else if (nationaldex == 253)
+        {
+    console.log("Grovyle");
+            }
+     else if (nationaldex == 254)
+        {
+    console.log("Sceptile");
+            }
+     else if (nationaldex == 255)
+        {
+    console.log("Torchic");
+            }
+     else if (nationaldex == 256)
+
+        {
+    console.log("Combusken");
+            }
+     else if (nationaldex == 257)
+        {
+    console.log("Blaziken");
+            }
+     else if (nationaldex == 258)
+        {
+    console.log("Mudkip");
+            }
+     else if (nationaldex == 259)
+        {
+    console.log("Marshtomp");
+            }
+     else if (nationaldex == 260)
+        {
+    console.log("Swampert");
+            }
+     else if (nationaldex == 261)
+        {
+    console.log("Poochyena");
+            }
+     else if (nationaldex == 262)
+        {
+    console.log("Mightyena");
+            }
+     else if (nationaldex == 263)
+        {
+    console.log("Zigzagoon");
+            }
+     else if (nationaldex == 264)
+
+        {
+    console.log("Linoone");
+            }
+     else if (nationaldex == 265)
+        {
+    console.log("Wurmple");
+            }
+     else if (nationaldex == 266)
+        {
+    console.log("ilcoon");
+            }
+     else if (nationaldex == 267)
+        {
+    console.log("Beautifly");
+            }
+     else if (nationaldex == 268)
+        {
+    console.log("Cascoon");
+            }
+     else if (nationaldex == 269)
+        {
+    console.log("Dustox");
+            }
+     else if (nationaldex == 270)
+        {
+    console.log("Lotad");
+            }
+     else if (nationaldex == 271)
+        {
+    console.log("Lombre");
+            }
+     else if (nationaldex == 272)
+
+        {
+    console.log("Ludicolo");
+            }
+     else if (nationaldex == 273)
+        {
+    console.log("Seedot");
+            }
+     else if (nationaldex == 274)
+        {
+    console.log("Nuzleaf");
+            }
+     else if (nationaldex == 275)
+        {
+    console.log("Shiftry");
+            }
+     else if (nationaldex == 276)
+        {
+    console.log("Taillow");
+            }
+     else if (nationaldex == 277)
+        {
+    console.log("Swellow");
+            }
+     else if (nationaldex == 278)
+        {
+    console.log("Wingull");
+            }
+     else if (nationaldex == 279)
+        {
+    console.log("Pelipper");
+            }
+     else if (nationaldex == 280)
+
+        {
+    console.log("Ralts");
+            }
+     else if (nationaldex == 281)
+        {
+    console.log("Kirlia");
+            }
+     else if (nationaldex == 282)
+        {
+    console.log("Gardevoir");
+            }
+     else if (nationaldex == 283)
+        {
+    console.log("Surskit");
+            }
+     else if (nationaldex == 284)
+        {
+    console.log("Masquerain");
+            }
+     else if (nationaldex == 285)
+        {
+    console.log("Shroomish");
+            }
+     else if (nationaldex == 286)
+        {
+    console.log("Breloom");
+            }
+     else if (nationaldex == 287)
+        {
+    console.log("Slakoth");
+            }
+     else if (nationaldex == 288)
+
+        {
+    console.log("Vigoroth");
+            }
+     else if (nationaldex == 289)
+        {
+    console.log("Slaking");
+            }
+     else if (nationaldex == 290)
+        {
+    console.log("Nincada");
+            }
+     else if (nationaldex == 291)
+        {
+    console.log("Ninjask");
+            }
+     else if (nationaldex == 292)
+        {
+    console.log("Shedinja");
+            }
+     else if (nationaldex == 293)
+        {
+    console.log("Whismur");
+            }
+     else if (nationaldex == 294)
+        {
+    console.log("Loudred");
+            }
+     else if (nationaldex == 295)
+        {
+    console.log("Exploud");
+            }
+     else if (nationaldex == 296)
+
+        {
+    console.log("Makuhita");
+            }
+     else if (nationaldex == 297)
+        {
+    console.log("Hariyama");
+            }
+     else if (nationaldex == 298)
+        {
+    console.log("Azurill");
+            }
+     else if (nationaldex == 299)
+        {
+    console.log("Nosepass");
+            }
+     else if (nationaldex == 300)
+        {
+    console.log("Skitty");
+            }
+         else if (nationaldex == 301)
+            {
+        console.log("Delcatty");
+                }
+         else if (nationaldex == 302)
+            {
+        console.log("Sableye");
+                }
+         else if (nationaldex == 303)
+            {
+        console.log("Mawile");
+                }
+         else if (nationaldex == 304)
+            {
+        console.log("Aron");
+                }
+         else if (nationaldex == 305)
+            {
+        console.log("Lairon");
+                }
+         else if (nationaldex == 306)
+            {
+        console.log("Aggron");
+                }
+         else if (nationaldex == 307)
+            {
+        console.log("Meditite");
+                }
+         else if (nationaldex == 308)
+
+            {
+        console.log("Medicham");
+                }
+         else if (nationaldex == 309)
+            {
+        console.log("Electrike");
+                }
+         else if (nationaldex == 310)
+            {
+        console.log("Manectric");
+                }
+         else if (nationaldex == 311)
+            {
+        console.log("Plusle");
+                }
+         else if (nationaldex == 312)
+            {
+        console.log("Minun");
+                }
+         else if (nationaldex == 313)
+            {
+        console.log("Volbeat");
+                }
+         else if (nationaldex == 314)
+            {
+        console.log("Illumise");
+                }
+         else if (nationaldex == 315)
+            {
+        console.log("Roselia");
+                }
+         else if (nationaldex == 316)
+
+            {
+        console.log("Gulpin");
+                }
+         else if (nationaldex == 317)
+            {
+        console.log("Swalot");
+                }
+         else if (nationaldex == 318)
+            {
+        console.log("Carvanha");
+                }
+         else if (nationaldex == 319)
+            {
+        console.log("Sharpedo");
+                }
+         else if (nationaldex == 320)
+            {
+        console.log("Wailmer");
+                }
+         else if (nationaldex == 321)
+            {
+        console.log("Wailord");
+                }
+         else if (nationaldex == 322)
+            {
+        console.log("Numel");
+                }
+         else if (nationaldex == 323)
+            {
+        console.log("Camerupt");
+                }
+         else if (nationaldex == 324)
+
+            {
+        console.log("Torkoal");
+                }
+         else if (nationaldex == 325)
+            {
+        console.log("Spoink");
+                }
+         else if (nationaldex == 326)
+            {
+        console.log("Grumpig");
+                }
+         else if (nationaldex == 327)
+            {
+        console.log("Spinda");
+                }
+         else if (nationaldex == 328)
+            {
+        console.log("Trapinch");
+                }
+         else if (nationaldex == 329)
+            {
+        console.log("Vibrava");
+                }
+         else if (nationaldex == 330)
+            {
+        console.log("Flygon");
+                }
+         else if (nationaldex == 331)
+            {
+        console.log("Cacnea");
+                }
+         else if (nationaldex == 332)
+
+            {
+        console.log("Cacturne");
+                }
+         else if (nationaldex == 333)
+            {
+        console.log("Swablu");
+                }
+         else if (nationaldex == 334)
+            {
+        console.log("Altaria");
+                }
+         else if (nationaldex == 335)
+            {
+        console.log("Zangoose");
+                }
+         else if (nationaldex == 336)
+            {
+        console.log("Seviper");
+                }
+         else if (nationaldex == 337)
+            {
+        console.log("Lunatone");
+                }
+         else if (nationaldex == 338)
+            {
+        console.log("Solrock");
+                }
+         else if (nationaldex == 339)
+            {
+        console.log("Barboach");
+                }
+         else if (nationaldex == 340)
+
+            {
+        console.log("Whiscash");
+                }
+         else if (nationaldex == 341)
+            {
+        console.log("Corphish");
+                }
+         else if (nationaldex == 342)
+            {
+        console.log("Crawdaunt");
+                }
+         else if (nationaldex == 343)
+            {
+        console.log("Baltoy");
+                }
+         else if (nationaldex == 344)
+            {
+        console.log("Claydol");
+                }
+         else if (nationaldex == 345)
+            {
+        console.log("Lileep");
+                }
+         else if (nationaldex == 346)
+            {
+        console.log("Cradily");
+                }
+         else if (nationaldex == 347)
+            {
+        console.log("Anorith");
+                }
+         else if (nationaldex == 348)
+
+            {
+        console.log("Armaldo");
+                }
+         else if (nationaldex == 349)
+            {
+        console.log("Feebas");
+                }
+         else if (nationaldex == 350)
+            {
+        console.log("Milotic");
+                }
+         else if (nationaldex == 351)
+            {
+        console.log("Castform");
+                }
+         else if (nationaldex == 352)
+            {
+        console.log("Kecleon");
+                }
+         else if (nationaldex == 353)
+            {
+        console.log("Shuppet");
+                }
+         else if (nationaldex == 354)
+            {
+        console.log("Banette");
+                }
+         else if (nationaldex == 355)
+            {
+        console.log("Duskull");
+                }
+         else if (nationaldex == 356)
+
+            {
+        console.log("Dusclops");
+                }
+         else if (nationaldex == 357)
+            {
+        console.log("Tropius");
+                }
+         else if (nationaldex == 358)
+            {
+        console.log("Chimecho");
+                }
+         else if (nationaldex == 359)
+            {
+        console.log("Absol");
+                }
+         else if (nationaldex == 360)
+            {
+        console.log("Wynaut");
+                }
+         else if (nationaldex == 361)
+            {
+        console.log("Snorunt");
+                }
+         else if (nationaldex == 362)
+            {
+        console.log("Glalie");
+                }
+         else if (nationaldex == 363)
+            {
+        console.log("Spheal");
+                }
+         else if (nationaldex == 364)
+
+            {
+        console.log("Sealeo");
+                }
+         else if (nationaldex == 365)
+            {
+        console.log("Walrein");
+                }
+         else if (nationaldex == 366)
+            {
+        console.log("Clamperl");
+                }
+         else if (nationaldex == 367)
+            {
+        console.log("Huntail");
+                }
+         else if (nationaldex == 368)
+            {
+        console.log("Gorebyss");
+                }
+         else if (nationaldex == 369)
+            {
+        console.log("Relicanth");
+                }
+         else if (nationaldex == 370)
+            {
+        console.log("Luvdisc");
+                }
+         else if (nationaldex == 371)
+            {
+        console.log("Bagon");
+                }
+         else if (nationaldex == 372)
+
+            {
+        console.log("Shelgon");
+                }
+         else if (nationaldex == 373)
+            {
+        console.log("Salamance");
+                }
+         else if (nationaldex == 374)
+            {
+        console.log("Beldum");
+                }
+         else if (nationaldex == 375)
+            {
+        console.log("Metang");
+                }
+         else if (nationaldex == 376)
+            {
+        console.log("Metagross");
+                }
+         else if (nationaldex == 377)
+            {
+        console.log("Regirock");
+                }
+         else if (nationaldex == 378)
+            {
+        console.log("Regice");
+                }
+         else if (nationaldex == 379)
+            {
+        console.log("Registeel");
+                }
+         else if (nationaldex == 380)
+
+            {
+        console.log("Latias");
+                }
+         else if (nationaldex == 381)
+            {
+        console.log("Latios");
+                }
+         else if (nationaldex == 382)
+            {
+        console.log("Kyogre");
+                }
+         else if (nationaldex == 383)
+            {
+        console.log("Groudon");
+                }
+         else if (nationaldex == 384)
+            {
+        console.log("Rayquaza");
+                }
+         else if (nationaldex == 385)
+            {
+        console.log("Jirachi");
+                }
+         else if (nationaldex == 386)
+            {
+        console.log("Deoxys");
+                }
+         else if (nationaldex == 387)
+            {
+        console.log("Turtwig");
+                }
+         else if (nationaldex == 388)
+
+            {
+        console.log("Grotle");
+                }
+         else if (nationaldex == 389)
+            {
+        console.log("Torterra");
+                }
+         else if (nationaldex == 390)
+            {
+        console.log("Chimchar");
+                }
+         else if (nationaldex == 391)
+            {
+        console.log("Monferno");
+                }
+         else if (nationaldex == 392)
+            {
+        console.log("Infernape");
+                }
+         else if (nationaldex == 393)
+            {
+        console.log("Piplup");
+                }
+         else if (nationaldex == 394)
+            {
+        console.log("Prinplup");
+                }
+         else if (nationaldex == 395)
+            {
+        console.log("Empoleon");
+                }
+         else if (nationaldex == 396)
+
+            {
+        console.log("Starly");
+                }
+         else if (nationaldex == 397)
+            {
+        console.log("Staravia");
+                }
+         else if (nationaldex == 398)
+            {
+        console.log("Staraptor");
+                }
+         else if (nationaldex == 399)
+            {
+        console.log("Bidoof");
+                }
+         else if (nationaldex == 400)
+            {
+        console.log("Bibarel");
+                }
+else if (nationaldex == 401)
+                {
+            console.log("Kricketot");
+ }
+else if (nationaldex == 402)
+                {
+            console.log("Kricketune");
+ }
+else if (nationaldex == 403)
+                {
+            console.log("Shinx");
+ }
+else if (nationaldex == 404)
+                {
+            console.log("Luxio");
+ }
+else if (nationaldex == 405)
+                {
+            console.log("Luxray");
+ }
+else if (nationaldex == 406)
+                {
+            console.log("Budew");
+ }
+else if (nationaldex == 407)
+                {
+            console.log("Roserade");
+ }
+else if (nationaldex == 408)
+
+                {
+            console.log("Cranidos");
+ }
+else if (nationaldex == 409)
+                {
+            console.log("Rampardos");
+ }
+else if (nationaldex == 410)
+                {
+            console.log("Shieldon");
+ }
+else if (nationaldex == 411)
+                {
+            console.log("Bastiodon");
+ }
+else if (nationaldex == 412)
+                {
+            console.log("Burmy");
+ }
+else if (nationaldex == 413)
+                {
+            console.log("Wormadam");
+ }
+else if (nationaldex == 414)
+                {
+            console.log("Mothim");
+ }
+else if (nationaldex == 415)
+                {
+            console.log("Combee");
+ }
+else if (nationaldex == 416)
+
+                {
+            console.log("Vespiquen");
+ }
+else if (nationaldex == 417)
+                {
+            console.log("Pachirisu");
+ }
+else if (nationaldex == 418)
+                {
+            console.log("Buizel");
+ }
+else if (nationaldex == 419)
+                {
+            console.log("Floatzel");
+ }
+else if (nationaldex == 420)
+                {
+            console.log("Cherubi");
+ }
+else if (nationaldex == 421)
+                {
+            console.log("Cherrim");
+ }
+else if (nationaldex == 422)
+                {
+            console.log("Shellos");
+ }
+else if (nationaldex == 423)
+                {
+            console.log("Gastrodon");
+ }
+else if (nationaldex == 424)
+
+                {
+            console.log("Ambipom");
+ }
+else if (nationaldex == 425)
+                {
+            console.log("Drifloon");
+ }
+else if (nationaldex == 426)
+                {
+            console.log("Drifblim");
+ }
+else if (nationaldex == 427)
+                {
+            console.log("Buneary");
+ }
+else if (nationaldex == 428)
+                {
+            console.log("Lopunny");
+ }
+else if (nationaldex == 429)
+                {
+            console.log("Mismagius");
+ }
+else if (nationaldex == 430)
+                {
+            console.log("Honchkrow");
+ }
+else if (nationaldex == 431)
+                {
+            console.log("Glameow");
+ }
+else if (nationaldex == 432)
+
+                {
+            console.log("Purugly");
+ }
+else if (nationaldex == 433)
+                {
+            console.log("Chingling");
+ }
+else if (nationaldex == 434)
+                {
+            console.log("Stunky");
+ }
+else if (nationaldex == 435)
+                {
+            console.log("Skuntank");
+ }
+else if (nationaldex == 436)
+                {
+            console.log("Bronzor");
+ }
+else if (nationaldex == 437)
+                {
+            console.log("Bronzong");
+ }
+else if (nationaldex == 438)
+                {
+            console.log("Bonsly");
+ }
+else if (nationaldex == 439)
+                {
+            console.log("Mime Jr");
+ }
+else if (nationaldex == 440)
+
+                {
+            console.log("Happiny");
+ }
+else if (nationaldex == 441)
+                {
+            console.log("Chatot");
+ }
+else if (nationaldex == 442)
+                {
+            console.log("Spiritomb");
+ }
+else if (nationaldex == 443)
+                {
+            console.log("Gible");
+ }
+else if (nationaldex == 444)
+                {
+            console.log("Gabite");
+ }
+else if (nationaldex == 445)
+                {
+            console.log("Garchomp");
+ }
+else if (nationaldex == 446)
+                {
+            console.log("Munchlax");
+ }
+else if (nationaldex == 447)
+                {
+            console.log("Riolu");
+ }
+else if (nationaldex == 448)
+
+                {
+            console.log("Lucario");
+ }
+else if (nationaldex == 449)
+                {
+            console.log("Hippopotas");
+ }
+else if (nationaldex == 450)
+                {
+            console.log("Hippowdon");
+ }
+else if (nationaldex == 451)
+                {
+            console.log("Skorupi");
+ }
+else if (nationaldex == 452)
+                {
+            console.log("Drapion");
+ }
+else if (nationaldex == 453)
+                {
+            console.log("Croagunk");
+ }
+else if (nationaldex == 454)
+                {
+            console.log("Toxicroak");
+ }
+else if (nationaldex == 455)
+                {
+            console.log("Carnivine");
+ }
+else if (nationaldex == 456)
+
+                {
+            console.log("Finneon");
+ }
+else if (nationaldex == 457)
+                {
+            console.log("Lumineon");
+ }
+else if (nationaldex == 458)
+                {
+            console.log("Mantyke");
+ }
+else if (nationaldex == 459)
+                {
+            console.log("Snover");
+ }
+else if (nationaldex == 460)
+                {
+            console.log("Abomasnow");
+ }
+else if (nationaldex == 461)
+                {
+            console.log("Weavile");
+ }
+else if (nationaldex == 462)
+                {
+            console.log("Magnezone");
+ }
+else if (nationaldex == 463)
+                {
+            console.log("Lickilicky");
+ }
+else if (nationaldex == 464)
+
+                {
+            console.log("Rhyperior");
+ }
+else if (nationaldex == 465)
+                {
+            console.log("Tangrowth");
+ }
+else if (nationaldex == 466)
+                {
+            console.log("Electivire");
+ }
+else if (nationaldex == 467)
+                {
+            console.log("Magmortar");
+ }
+else if (nationaldex == 468)
+                {
+            console.log("Togekiss");
+ }
+else if (nationaldex == 469)
+                {
+            console.log("Yanmega");
+ }
+else if (nationaldex == 470)
+                {
+            console.log("Leafeon");
+ }
+else if (nationaldex == 471)
+                {
+            console.log("Glaceon");
+ }
+else if (nationaldex == 472)
+
+                {
+            console.log("Gliscor");
+ }
+else if (nationaldex == 473)
+                {
+            console.log("Mamoswine");
+ }
+else if (nationaldex == 474)
+                {
+            console.log("Porygon-Z");
+ }
+else if (nationaldex == 475)
+                {
+            console.log("Gallade");
+ }
+else if (nationaldex == 476)
+                {
+            console.log("Probopass");
+ }
+else if (nationaldex == 477)
+                {
+            console.log("Dusknoir");
+ }
+else if (nationaldex == 478)
+                {
+            console.log("Froslass");
+ }
+else if (nationaldex == 479)
+                {
+            console.log("Rotom");
+ }
+else if (nationaldex == 480)
+
+                {
+            console.log("Uxie");
+ }
+else if (nationaldex == 481)
+                {
+            console.log("Mesprit");
+ }
+else if (nationaldex == 482)
+                {
+            console.log("Azelf");
+ }
+else if (nationaldex == 483)
+                {
+            console.log("Dialga");
+ }
+else if (nationaldex == 484)
+                {
+            console.log("Palkia");
+ }
+else if (nationaldex == 485)
+                {
+            console.log("Heatran");
+ }
+else if (nationaldex == 486)
+                {
+            console.log("Regigigas");
+ }
+else if (nationaldex == 487)
+                {
+            console.log("Giratina");
+ }
+else if (nationaldex == 488)
+
+                {
+            console.log("Cresselia");
+ }
+else if (nationaldex == 489)
+                {
+            console.log("Phione");
+ }
+else if (nationaldex == 490)
+                {
+            console.log("Manaphy");
+ }
+else if (nationaldex == 491)
+                {
+            console.log("Darkrai");
+ }
+else if (nationaldex == 492)
+                {
+            console.log("Shaymin");
+ }
+else if (nationaldex == 493)
+                {
+            console.log("Arceus");
+ }
+else if (nationaldex == 494)
+                {
+            console.log("Victini");
+ }
+else if (nationaldex == 495)
+                {
+            console.log("Snivy");
+ }
+else if (nationaldex == 496)
+
+                {
+            console.log("Servine");
+ }
+else if (nationaldex == 497)
+                {
+            console.log("Serperior");
+ }
+else if (nationaldex == 498)
+                {
+            console.log("Tepig");
+ }
+else if (nationaldex == 499)
+                {
+            console.log("Pignite");
+ }
+else if (nationaldex == 500)
+                {
+            console.log("Emboar");
+ }
+  else if (nationaldex == 501)
+ {
+ console.log("Oshawott");
+     }
+  else if (nationaldex == 502)
+ {
+ console.log("Dewott");
+     }
+  else if (nationaldex == 503)
+ {
+ console.log("Samurott");
+     }
+  else if (nationaldex == 504)
+ {
+ console.log("Patrat");
+     }
+  else if (nationaldex == 505)
+ {
+ console.log("Watchog");
+     }
+  else if (nationaldex == 506)
+ {
+ console.log("Lillipup");
+     }
+  else if (nationaldex == 507)
+ {
+ console.log("Herdier");
+     }
+  else if (nationaldex == 508)
+
+ {
+ console.log("Stoutland");
+     }
+  else if (nationaldex == 509)
+ {
+ console.log("Purrloin");
+     }
+  else if (nationaldex == 510)
+ {
+ console.log("Liepard");
+     }
+  else if (nationaldex == 511)
+ {
+ console.log("Pansage");
+     }
+  else if (nationaldex == 512)
+ {
+ console.log("Simisage");
+     }
+  else if (nationaldex == 513)
+ {
+ console.log("Pansear");
+     }
+  else if (nationaldex == 514)
+ {
+ console.log("Simisear");
+     }
+  else if (nationaldex == 515)
+ {
+ console.log("Panpour");
+     }
+  else if (nationaldex == 516)
+
+ {
+ console.log("Simipour");
+     }
+  else if (nationaldex == 517)
+ {
+ console.log("Munna");
+     }
+  else if (nationaldex == 518)
+ {
+ console.log("Musharna");
+     }
+  else if (nationaldex == 519)
+ {
+ console.log("Pidove");
+     }
+  else if (nationaldex == 520)
+ {
+ console.log("Tranquill");
+     }
+  else if (nationaldex == 521)
+ {
+ console.log("Unfezant");
+     }
+  else if (nationaldex == 522)
+ {
+ console.log("Blitzle");
+     }
+  else if (nationaldex == 523)
+ {
+ console.log("Zebstrika");
+     }
+  else if (nationaldex == 524)
+
+ {
+ console.log("Roggenrola");
+     }
+  else if (nationaldex == 525)
+ {
+ console.log("Boldore");
+     }
+  else if (nationaldex == 526)
+ {
+ console.log("Gigalith");
+     }
+  else if (nationaldex == 527)
+ {
+ console.log("Woobat");
+     }
+  else if (nationaldex == 528)
+ {
+ console.log("Swoobat");
+     }
+  else if (nationaldex == 529)
+ {
+ console.log("Drilbur");
+     }
+  else if (nationaldex == 530)
+ {
+ console.log("Excadrill");
+     }
+  else if (nationaldex == 531)
+ {
+ console.log("Audino");
+     }
+  else if (nationaldex == 532)
+
+ {
+ console.log("Timburr");
+     }
+  else if (nationaldex == 533)
+ {
+ console.log("Gurdurr");
+     }
+  else if (nationaldex == 534)
+ {
+ console.log("Conkeldurr");
+     }
+  else if (nationaldex == 535)
+ {
+ console.log("Tympole");
+     }
+  else if (nationaldex == 536)
+ {
+ console.log("Palpitoad");
+     }
+  else if (nationaldex == 537)
+ {
+ console.log("Seismitoad");
+     }
+  else if (nationaldex == 538)
+ {
+ console.log("Throh");
+     }
+  else if (nationaldex == 539)
+ {
+ console.log("Sawk");
+     }
+  else if (nationaldex == 540)
+
+ {
+ console.log("Sewaddle");
+     }
+  else if (nationaldex == 541)
+ {
+ console.log("Swadloon");
+     }
+  else if (nationaldex == 542)
+ {
+ console.log("Leavanny");
+     }
+  else if (nationaldex == 543)
+ {
+ console.log("Venipede");
+     }
+  else if (nationaldex == 544)
+ {
+ console.log("Whirlipede");
+     }
+  else if (nationaldex == 545)
+ {
+ console.log("Scolipede");
+     }
+  else if (nationaldex == 546)
+ {
+ console.log("Cottonee");
+     }
+  else if (nationaldex == 547)
+ {
+ console.log("Whimsicott");
+     }
+  else if (nationaldex == 548)
+
+ {
+ console.log("Petilil");
+     }
+  else if (nationaldex == 549)
+ {
+ console.log("Lilligant");
+     }
+  else if (nationaldex == 550)
+ {
+ console.log("Basculin");
+     }
+  else if (nationaldex == 551)
+ {
+ console.log("Sandile");
+     }
+  else if (nationaldex == 552)
+ {
+ console.log("Krokorok");
+     }
+  else if (nationaldex == 553)
+ {
+ console.log("Krookodile");
+     }
+  else if (nationaldex == 554)
+ {
+ console.log("Darumaka");
+     }
+  else if (nationaldex == 555)
+ {
+ console.log("Darmanitan");
+     }
+  else if (nationaldex == 556)
+
+ {
+ console.log("Maractus");
+     }
+  else if (nationaldex == 557)
+ {
+ console.log("Dwebble");
+     }
+  else if (nationaldex == 558)
+ {
+ console.log("Crustle");
+     }
+  else if (nationaldex == 559)
+ {
+ console.log("Scraggy");
+     }
+  else if (nationaldex == 560)
+ {
+ console.log("Scrafty");
+     }
+  else if (nationaldex == 561)
+ {
+ console.log("Sigilyph");
+     }
+  else if (nationaldex == 562)
+ {
+ console.log("Yamask");
+     }
+  else if (nationaldex == 563)
+ {
+ console.log("Cofagrigus");
+     }
+else if (nationaldex == 564)
+
+ {
+ console.log("Tirtouga");
+     }
+else if (nationaldex == 565)
+ {
+ console.log("Carracosta");
+     }
+else if (nationaldex == 566)
+ {
+ console.log("Archen");
+     }
+else if (nationaldex == 567)
+ {
+ console.log("Archeops");
+     }
+else if (nationaldex == 568)
+ {
+ console.log("Trubbish");
+     }
+else if (nationaldex == 569)
+ {
+ console.log("Garbodor");
+     }
+else if (nationaldex == 570)
+ {
+ console.log("Zorua");
+     }
+else if (nationaldex == 571)
+ {
+ console.log("Zoroark");
+     }
+else if (nationaldex == 572)
+ {
+ console.log("Minccino");
+     }
+else if (nationaldex == 573)
+ {
+ console.log("Cinccino");
+     }
+else if (nationaldex == 574)
+ {
+ console.log("Gothita");
+     }
+else if (nationaldex == 575)
+ {
+ console.log("Gothorita");
+     }
+else if (nationaldex == 576)
+ {
+ console.log("Gothitelle");
+     }
+else if (nationaldex == 577)
+ {
+ console.log("Solosis");
+     }
+else if (nationaldex == 578)
+ {
+ console.log("Duosion");
+     }
+else if (nationaldex == 579)
+ {
+ console.log("Reuniclus");
+     }
+  else if (nationaldex == 580)
+
+ {
+ console.log("Ducklett");
+     }
+  else if (nationaldex == 581)
+ {
+ console.log("Swanna");
+     }
+  else if (nationaldex == 582)
+ {
+ console.log("Vanillite");
+     }
+  else if (nationaldex == 583)
+ {
+ console.log("Vanillish");
+     }
+  else if (nationaldex == 584)
+ {
+ console.log("Vanilluxe");
+     }
+  else if (nationaldex == 585)
+ {
+ console.log("Deerling");
+     }
+  else if (nationaldex == 586)
+ {
+ console.log("Sawsbuck");
+     }
+  else if (nationaldex == 587)
+ {
+ console.log("Emolga");
+     }
+  else if (nationaldex == 588)
+
+ {
+ console.log("Karrablast");
+     }
+  else if (nationaldex == 589)
+ {
+ console.log("Escavalier");
+     }
+  else if (nationaldex == 590)
+ {
+ console.log("Foongus");
+     }
+  else if (nationaldex == 591)
+ {
+ console.log("Amoonguss");
+     }
+  else if (nationaldex == 592)
+ {
+ console.log("Frillish");
+     }
+  else if (nationaldex == 593)
+ {
+ console.log("Jellicent");
+     }
+  else if (nationaldex == 594)
+ {
+ console.log("Alomomola");
+     }
+  else if (nationaldex == 595)
+ {
+ console.log("Joltik");
+     }
+  else if (nationaldex == 596)
+
+ {
+ console.log("Galvantula");
+     }
+  else if (nationaldex == 597)
+ {
+ console.log("Ferroseed");
+     }
+  else if (nationaldex == 598)
+ {
+ console.log("Ferrothorn");
+     }
+  else if (nationaldex == 599)
+ {
+ console.log("Klink");
+     }
+  else if (nationaldex == 600)
+ {
+ console.log("Klang");
+     }
+  else if (nationaldex == 601)
+     {
+ console.log("Klinklang");
+         }
+  else if (nationaldex == 602)
+     {
+ console.log("Tynamo");
+         }
+  else if (nationaldex == 603)
+     {
+ console.log("Eelektrik");
+         }
+  else if (nationaldex == 604)
+     {
+ console.log("Eelektross");
+         }
+  else if (nationaldex == 605)
+     {
+ console.log("Elgyem");
+         }
+  else if (nationaldex == 606)
+     {
+ console.log("Beheeyem");
+         }
+  else if (nationaldex == 607)
+     {
+ console.log("Litwick");
+         }
+  else if (nationaldex == 608)
+
+     {
+ console.log("Lampent");
+         }
+  else if (nationaldex == 609)
+     {
+ console.log("Chandelure");
+         }
+  else if (nationaldex == 610)
+     {
+ console.log("Axew");
+         }
+  else if (nationaldex == 611)
+     {
+ console.log("Fraxure");
+         }
+  else if (nationaldex == 612)
+     {
+ console.log("Haxorus");
+         }
+  else if (nationaldex == 613)
+     {
+ console.log("Cubchoo");
+         }
+  else if (nationaldex == 614)
+     {
+ console.log("Beartic");
+         }
+  else if (nationaldex == 615)
+     {
+ console.log("Cryogonal");
+         }
+  else if (nationaldex == 616)
+
+     {
+ console.log("Shelmet");
+         }
+  else if (nationaldex == 617)
+     {
+ console.log("Accelgor");
+         }
+  else if (nationaldex == 618)
+     {
+ console.log("Stunfisk");
+         }
+  else if (nationaldex == 619)
+     {
+ console.log("Mienfoo");
+         }
+  else if (nationaldex == 620)
+     {
+ console.log("Mienshao");
+         }
+  else if (nationaldex == 621)
+     {
+ console.log("Druddigon");
+         }
+  else if (nationaldex == 622)
+     {
+ console.log("Golett");
+         }
+  else if (nationaldex == 623)
+     {
+ console.log("Golurk");
+         }
+  else if (nationaldex == 624)
+
+     {
+ console.log("Pawniard");
+         }
+  else if (nationaldex == 625)
+     {
+ console.log("Bisharp");
+         }
+  else if (nationaldex == 626)
+     {
+ console.log("Bouffalant");
+         }
+  else if (nationaldex == 627)
+     {
+ console.log("Rufflet");
+         }
+  else if (nationaldex == 628)
+     {
+ console.log("Braviary");
+         }
+  else if (nationaldex == 629)
+     {
+ console.log("Vullaby");
+         }
+  else if (nationaldex == 630)
+     {
+ console.log("Mandibuzz");
+         }
+  else if (nationaldex == 631)
+     {
+ console.log("Heatmor");
+         }
+  else if (nationaldex == 632)
+
+     {
+ console.log("Durant");
+         }
+  else if (nationaldex == 633)
+     {
+ console.log("Deino");
+         }
+  else if (nationaldex == 634)
+     {
+ console.log("Zweilous");
+         }
+  else if (nationaldex == 635)
+     {
+ console.log("Hydreigon");
+         }
+  else if (nationaldex == 636)
+     {
+ console.log("Larvesta");
+         }
+  else if (nationaldex == 637)
+     {
+ console.log("Volcarona");
+         }
+  else if (nationaldex == 638)
+     {
+ console.log("Cobalion");
+         }
+  else if (nationaldex == 639)
+     {
+ console.log("Terrakion");
+         }
+  else if (nationaldex == 640)
+
+     {
+ console.log("Virizion");
+         }
+  else if (nationaldex == 641)
+     {
+ console.log("Tornadus");
+         }
+  else if (nationaldex == 642)
+     {
+ console.log("Thundurus");
+         }
+  else if (nationaldex == 643)
+     {
+ console.log("Reshiram");
+         }
+  else if (nationaldex == 644)
+     {
+ console.log("Zekrom");
+         }
+  else if (nationaldex == 645)
+     {
+ console.log("Landorus");
+         }
+  else if (nationaldex == 646)
+     {
+ console.log("Kyurem");
+         }
+  else if (nationaldex == 647)
+     {
+ console.log("Keldeo");
+         }
+  else if (nationaldex == 648)
+
+     {
+ console.log("Meloetta");
+         }
+  else if (nationaldex == 649)
+     {
+ console.log("Genesect");
+         }
+  else if (nationaldex == 650)
+     {
+ console.log("Chespin");
+         }
+  else if (nationaldex == 651)
+     {
+ console.log("Quilladin");
+         }
+  else if (nationaldex == 652)
+     {
+ console.log("Chesnaught");
+         }
+  else if (nationaldex == 653)
+     {
+ console.log("Fennekin");
+         }
+  else if (nationaldex == 654)
+     {
+ console.log("Braixen");
+         }
+  else if (nationaldex == 655)
+     {
+ console.log("Delphox");
+         }
+  else if (nationaldex == 656)
+
+     {
+ console.log("Froakie");
+         }
+  else if (nationaldex == 657)
+     {
+ console.log("Frogadier");
+         }
+  else if (nationaldex == 658)
+     {
+ console.log("Greninja");
+         }
+  else if (nationaldex == 659)
+     {
+ console.log("Bunnelby");
+         }
+  else if (nationaldex == 660)
+     {
+ console.log("Diggersby");
+         }
+  else if (nationaldex == 661)
+     {
+ console.log("Fletchling");
+         }
+  else if (nationaldex == 662)
+     {
+ console.log("Fletchinder");
+         }
+  else if (nationaldex == 663)
+     {
+ console.log("Talonflame");
+         }
+  else if (nationaldex == 664)
+
+     {
+ console.log("Scatterbug");
+         }
+  else if (nationaldex == 665)
+     {
+ console.log("Spewpa");
+         }
+  else if (nationaldex == 666)
+     {
+ console.log("Vivillon");
+         }
+  else if (nationaldex == 667)
+     {
+ console.log("Litleo");
+         }
+  else if (nationaldex == 668)
+     {
+ console.log("Pyroar");
+         }
+  else if (nationaldex == 669)
+     {
+ console.log("Flabébé");
+         }
+  else if (nationaldex == 670)
+     {
+ console.log("Floette");
+         }
+  else if (nationaldex == 671)
+     {
+ console.log("Florges");
+         }
+  else if (nationaldex == 672)
+
+     {
+ console.log("Skiddo");
+         }
+  else if (nationaldex == 673)
+     {
+ console.log("Gogoat");
+         }
+  else if (nationaldex == 674)
+     {
+ console.log("Pancham");
+         }
+  else if (nationaldex == 675)
+     {
+ console.log("Pangoro");
+         }
+  else if (nationaldex == 676)
+     {
+ console.log("Furfrou");
+         }
+  else if (nationaldex == 677)
+     {
+ console.log("Espurr");
+         }
+  else if (nationaldex == 678)
+     {
+ console.log("Meowstic");
+         }
+  else if (nationaldex == 679)
+     {
+ console.log("Honedge");
+         }
+  else if (nationaldex == 680)
+
+     {
+ console.log("Doublade");
+         }
+  else if (nationaldex == 681)
+     {
+ console.log("Aegislash");
+         }
+  else if (nationaldex == 682)
+     {
+ console.log("Spritzee");
+         }
+  else if (nationaldex == 683)
+     {
+ console.log("Aromatisse");
+         }
+  else if (nationaldex == 684)
+     {
+ console.log("Swirlix");
+         }
+  else if (nationaldex == 685)
+     {
+ console.log("Slurpuff");
+         }
+  else if (nationaldex == 686)
+     {
+ console.log("Inkay");
+         }
+  else if (nationaldex == 687)
+     {
+ console.log("Malamar");
+         }
+  else if (nationaldex == 688)
+
+     {
+ console.log("Binacle");
+         }
+  else if (nationaldex == 689)
+     {
+ console.log("Barbaracle");
+         }
+  else if (nationaldex == 690)
+     {
+ console.log("Skrelp");
+         }
+  else if (nationaldex == 691)
+     {
+ console.log("Dragalge");
+         }
+  else if (nationaldex == 692)
+     {
+ console.log("Clauncher");
+         }
+  else if (nationaldex == 693)
+     {
+ console.log("Clawitzer");
+         }
+  else if (nationaldex == 694)
+     {
+ console.log("Helioptile");
+         }
+  else if (nationaldex == 695)
+     {
+ console.log("Heliolisk");
+         }
+  else if (nationaldex == 696)
+
+     {
+ console.log("Tyrunt");
+         }
+  else if (nationaldex == 697)
+     {
+ console.log("Tyrantrum");
+         }
+  else if (nationaldex == 698)
+     {
+ console.log("Amaura");
+         }
+  else if (nationaldex == 699)
+     {
+ console.log("Aurorus");
+         }
+  else if (nationaldex == 700)
+     {
+ console.log("Sylveon");
+         }
+
+ else if (nationaldex == 701)
+{
+console.log("Hawlucha");
+    }
+ else if (nationaldex == 702)
+{
+console.log("Dedenne");
+    }
+ else if (nationaldex == 703)
+{
+console.log("Carbink");
+    }
+ else if (nationaldex == 704)
+{
+console.log("Goomy");
+    }
+ else if (nationaldex == 705)
+{
+console.log("Sliggoo");
+    }
+ else if (nationaldex == 706)
+{
+console.log("Goodra");
+    }
+ else if (nationaldex == 707)
+{
+console.log("Klefki");
+    }
+ else if (nationaldex == 708)
+
+{
+console.log("Phantump");
+    }
+ else if (nationaldex == 709)
+{
+console.log("Trevenant");
+    }
+ else if (nationaldex == 710)
+{
+console.log("Pumpkaboo");
+    }
+ else if (nationaldex == 711)
+{
+console.log("Gourgeist");
+    }
+ else if (nationaldex == 712)
+{
+console.log("Bergmite");
+    }
+ else if (nationaldex == 713)
+{
+console.log("Avalugg");
+    }
+ else if (nationaldex == 714)
+{
+console.log("Noibat");
+    }
+ else if (nationaldex == 715)
+{
+console.log("Noivern");
+    }
+ else if (nationaldex == 716)
+
+{
+console.log("Xerneas");
+    }
+ else if (nationaldex == 717)
+{
+console.log("Yveltal");
+    }
+ else if (nationaldex == 718)
+{
+console.log("Zygarde");
+    }
+ else if (nationaldex == 719)
+{
+console.log("Diancie");
+    }
+ else if (nationaldex == 720)
+{
+console.log("Hoopa");
+    }
+ else if (nationaldex == 721)
+{
+console.log("Volcanion");
+    }
+ else if (nationaldex == 722)
+{
+console.log("Rowlet");
+    }
+ else if (nationaldex == 723)
+{
+console.log("Dartrix");
+    }
+ else if (nationaldex == 724)
+
+{
+console.log("Decidueye");
+    }
+ else if (nationaldex == 725)
+{
+console.log("Litten");
+    }
+ else if (nationaldex == 726)
+{
+console.log("Torracat");
+    }
+ else if (nationaldex == 727)
+{
+console.log("Incineroar");
+    }
+ else if (nationaldex == 728)
+{
+console.log("Popplio");
+    }
+ else if (nationaldex == 729)
+{
+console.log("Brionne");
+    }
+ else if (nationaldex == 730)
+{
+console.log("Primarina");
+    }
+ else if (nationaldex == 731)
+{
+console.log("Pikipek");
+    }
+ else if (nationaldex == 732)
+{
+console.log("Trumbeak");
+    }
+ else if (nationaldex == 733)
+{
+console.log("Toucannon");
+    }
+ else if (nationaldex == 734)
+{
+console.log("Yungoos");
+    }
+ else if (nationaldex == 735)
+{
+console.log("Gumshoos");
+    }
+ else if (nationaldex == 736)
+{
+console.log("Grubbin");
+    }
+ else if (nationaldex == 737)
+{
+console.log("Charjabug");
+    }
+ else if (nationaldex == 738)
+{
+console.log("Vikavolt");
+    }
+ else if (nationaldex == 739)
+{
+console.log("Crabrawler");
+    }
+ else if (nationaldex == 740)
+{
+console.log("Crabominable");
+    }
+ else if (nationaldex == 741)
+{
+console.log("Oricorio");
+    }
+ else if (nationaldex == 742)
+{
+console.log("Cutiefly");
+    }
+ else if (nationaldex == 743)
+{
+console.log("Ribombee");
+    }
+ else if (nationaldex == 744)
+{
+console.log("Rockruff");
+    }
+ else if (nationaldex == 745)
+{
+console.log("Lycanroc");
+    }
+ else if (nationaldex == 746)
+{
+console.log("Wishiwashi");
+    }
+ else if (nationaldex == 747)
+{
+console.log("Mareanie");
+    }
+ else if (nationaldex == 748)
+{
+console.log("Toxapex");
+    }
+ else if (nationaldex == 749)
+{
+console.log("Mudbray");
+    }
+ else if (nationaldex == 750)
+{
+console.log("Mudsdale");
+    }
+ else if (nationaldex == 751)
+{
+console.log("Dewpider");
+    }
+ else if (nationaldex == 752)
+{
+console.log("Araquanid");
+    }
+ else if (nationaldex == 753)
+{
+console.log("Fomantis");
+    }
+ else if (nationaldex == 754)
+{
+console.log("Lurantis");
+    }
+ else if (nationaldex == 755)
+{
+console.log("Morelull");
+    }
+ else if (nationaldex == 756)
+{
+console.log("Shiinotic");
+    }
+ else if (nationaldex == 757)
+{
+console.log("Salandit");
+    }
+ else if (nationaldex == 758)
+{
+console.log("Salazzle");
+    }
+ else if (nationaldex == 759)
+{
+console.log("Stufful");
+    }
+ else if (nationaldex == 760)
+{
+console.log("Bewear");
+    }
+ else if (nationaldex == 761)
+{
+console.log("Bounsweet");
+    }
+ else if (nationaldex == 762)
+{
+console.log("Steenee");
+    }
+ else if (nationaldex == 763)
+{
+console.log("Tsareena");
+    }
+ else if (nationaldex == 764)
+{
+console.log("Comfey");
+    }
+ else if (nationaldex == 765)
+{
+console.log("Oranguru");
+    }
+ else if (nationaldex == 766)
+{
+console.log("Passimian");
+    }
+ else if (nationaldex == 767)
+{
+console.log("Wimpod");
+    }
+ else if (nationaldex == 768)
+{
+console.log("Golisopod");
+    }
+ else if (nationaldex == 769)
+{
+console.log("Sandygast");
+    }
+ else if (nationaldex == 770)
+{
+console.log("Palossand");
+    }
+ else if (nationaldex == 771)
+{
+console.log("Pyukumuku");
+    }
+ else if (nationaldex == 772)
+{
+console.log("Type: Null");
+    }
+ else if (nationaldex == 773)
+{
+console.log("Silvally");
+    }
+ else if (nationaldex == 774)
+{
+console.log("Minior");
+    }
+ else if (nationaldex == 775)
+{
+console.log("Komala");
+    }
+ else if (nationaldex == 776)
+{
+console.log("Turtonator");
+    }
+ else if (nationaldex == 777)
+{
+console.log("Togedemaru");
+    }
+ else if (nationaldex == 778)
+{
+console.log("Mimikyu");
+    }
+ else if (nationaldex == 779)
+{
+console.log("Bruxish");
+    }
+ else if (nationaldex == 780)
+{
+console.log("Drampa");
+    }
+ else if (nationaldex == 781)
+{
+console.log("Dhelmise");
+    }
+ else if (nationaldex == 782)
+{
+console.log("Jangmo-o");
+    }
+ else if (nationaldex == 783)
+{
+console.log("Hakamo-o");
+    }
+ else if (nationaldex == 784)
+{
+console.log("Kommo-o");
+    }
+ else if (nationaldex == 785)
+{
+console.log("Tapu Koko");
+    }
+ else if (nationaldex == 786)
+{
+console.log("Tapu Lele");
+    }
+ else if (nationaldex == 787)
+{
+console.log("Tapu Bulu");
+    }
+ else if (nationaldex == 788)
+{
+console.log("Tapu Fini");
+    }
+ else if (nationaldex == 789)
+{
+console.log("Cosmog");
+    }
+ else if (nationaldex == 790)
+{
+console.log("Cosmoem");
+    }
+ else if (nationaldex == 791)
+{
+console.log("Solgaleo");
+    }
+ else if (nationaldex == 792)
+{
+console.log("Lunala");
+    }
+ else if (nationaldex == 793)
+{
+console.log("Nihilego");
+    }
+ else if (nationaldex == 794)
+{
+console.log("Buzzwole");
+    }
+ else if (nationaldex == 795)
+{
+console.log("Pheromosa");
+    }
+ else if (nationaldex == 796)
+{
+console.log("Xurkitree");
+    }
+ else if (nationaldex == 797)
+{
+console.log("Celesteela");
+    }
+ else if (nationaldex == 798)
+{
+console.log("\tKartana");
+    }
+ else if (nationaldex == 799)
+{
+console.log("Guzzlord");
+    }
+ else if (nationaldex == 800)
+{
+        printf("Necrozma");
+    }
+ else if (nationaldex == 801)
+{
+console.log("Magearna");
+    }
+ else if (nationaldex == 802)
+{
+console.log("Marshadow");
+    }
+ else if (nationaldex == 803)
+{
+console.log("Poipole");
+    }
+ else if (nationaldex == 804)
+{
+console.log("Naganadel");
+    }
+ else if (nationaldex == 805)
+{
+console.log("Stakataka");
+    }
+ else if (nationaldex == 806)
+{
+console.log("Blacephalon");
+    }
+ else if (nationaldex == 807)
+{
+console.log("Zeraora");
+    }
+ else if (nationaldex == 808)
+{
+console.log("Meltan");
+    }
+ else if (nationaldex == 809)
+{
+console.log("Melmetal");
+    }
+ else if (nationaldex == 810)
+{
+console.log("Grookey");
+    }
+ else if (nationaldex == 811)
+{
+console.log("Thwackey");
+    }
+ else if (nationaldex == 812)
+{
+console.log("Rillaboom");
+    }
+ else if (nationaldex == 813)
+{
+console.log("Scorbunny");
+    }
+ else if (nationaldex == 814)
+{
+console.log("Raboot");
+    }
+ else if (nationaldex == 815)
+{
+console.log("Cinderace");
+    }
+ else if (nationaldex == 816)
+{
+console.log("Sobble");
+    }
+ else if (nationaldex == 817)
+{
+console.log("Drizzile");
+    }
+ else if (nationaldex == 818)
+{
+console.log("Inteleon");
+    }
+ else if (nationaldex == 819)
+{
+console.log("Skwovet");
+    }
+ else if (nationaldex == 820)
+{
+console.log("Greedent");
+    }
+ else if (nationaldex == 821)
+{
+console.log("Rookidee");
+    }
+ else if (nationaldex == 822)
+{
+console.log("Corvisquire");
+    }
+ else if (nationaldex == 823)
+{
+console.log("Corviknight");
+    }
+ else if (nationaldex == 824)
+{
+console.log("Blipbug");
+    }
+ else if (nationaldex == 825)
+{
+console.log("Dottler");
+    }
+ else if (nationaldex == 826)
+{
+console.log("Orbeetle");
+    }
+ else if (nationaldex == 827)
+{
+console.log("Nickit");
+    }
+ else if (nationaldex == 828)
+{
+console.log("Thievul");
+    }
+ else if (nationaldex == 829)
+{
+console.log("Gossifleur");
+    }
+ else if (nationaldex == 830)
+{
+console.log("Eldegoss");
+    }
+ else if (nationaldex == 831)
+{
+console.log("Wooloo");
+    }
+ else if (nationaldex == 832)
+{
+console.log("Dubwool");
+    }
+ else if (nationaldex == 833)
+{
+console.log("Chewtle");
+    }
+ else if (nationaldex == 834)
+{
+console.log("Drednaw");
+    }
+ else if (nationaldex == 835)
+{
+console.log("Yamper");
+    }
+ else if (nationaldex == 836)
+{
+console.log("Boltund");
+    }
+ else if (nationaldex == 837)
+{
+console.log("Rolycoly");
+    }
+ else if (nationaldex == 838)
+{
+console.log("Carkol ");
+    }
+ else if (nationaldex == 839)
+{
+console.log("Coalossal");
+    }
+ else if (nationaldex == 840)
+{
+console.log("Applin");
+    }
+ else if (nationaldex == 841)
+{
+console.log("Flapple");
+    }
+ else if (nationaldex == 842)
+{
+console.log("Appletun");
+    }
+ else if (nationaldex == 843)
+{
+console.log("Silicobra");
+    }
+ else if (nationaldex == 844)
+{
+console.log("Sandaconda");
+    }
+ else if (nationaldex == 845)
+{
+console.log("Cramorant");
+    }
+ else if (nationaldex == 846)
+{
+console.log("Arrokuda");
+    }
+ else if (nationaldex == 847)
+{
+console.log("Barraskewda");
+    }
+ else if (nationaldex == 848)
+{
+console.log("Toxel");
+    }
+ else if (nationaldex == 849)
+{
+console.log("Toxtricity");
+    }
+ else if (nationaldex == 850)
+{
+console.log("Sizzlipede");
+    }
+ else if (nationaldex == 851)
+{
+console.log("Centiskorch");
+    }
+ else if (nationaldex == 852)
+{
+console.log("Clobbopus");
+    }
+ else if (nationaldex == 853)
+{
+console.log("Grapploct");
+    }
+ else if (nationaldex == 854)
+{
+console.log("Sinistea");
+    }
+ else if (nationaldex == 855)
+{
+console.log("Polteageist");
+    }
+ else if (nationaldex == 856)
+{
+console.log("Hatenna");
+    }
+ else if (nationaldex == 857)
+{
+console.log("Hattrem");
+    }
+ else if (nationaldex == 858)
+{
+console.log("Hatterene");
+    }
+ else if (nationaldex == 859)
+{
+console.log("Impidimp");
+    }
+ else if (nationaldex == 860)
+{
+console.log("Morgrem");
+    }
+ else if (nationaldex == 861)
+{
+console.log("Grimmsnarl");
+    }
+ else if (nationaldex == 862)
+{
+console.log("Obstagoon");
+    }
+ else if (nationaldex == 863)
+{
+console.log("Perrserker");
+    }
+ else if (nationaldex == 864)
+{
+console.log("Cursola");
+    }
+ else if (nationaldex == 865)
+{
+console.log("Sirfetch'd");
+    }
+ else if (nationaldex == 866)
+{
+console.log("Mr. Rime");
+    }
+ else if (nationaldex == 867)
+{
+console.log("Runerigus");
+    }
+ else if (nationaldex == 868)
+{
+console.log("Milcery");
+    }
+ else if (nationaldex == 869)
+{
+console.log("Alcremie");
+    }
+ else if (nationaldex == 870)
+{
+console.log("Falinks");
+    }
+ else if (nationaldex == 871)
+{
+console.log("Pincurchin");
+    }
+ else if (nationaldex == 872)
+{
+console.log("Snom");
+    }
+ else if (nationaldex == 873)
+{
+console.log("Frosmoth");
+    }
+ else if (nationaldex == 874)
+{
+console.log("Stonjourner");
+    }
+ else if (nationaldex == 875)
+{
+console.log("Eiscue");
+    }
+ else if (nationaldex == 876)
+{
+console.log("Indeedee");
+    }
+ else if (nationaldex == 877)
+{
+console.log("Morpeko");
+    }
+ else if (nationaldex == 878)
+{
+console.log("Cufant");
+    }
+ else if (nationaldex == 879)
+{
+console.log("Copperajah");
+    }
+ else if (nationaldex == 880)
+{
+console.log("Dracozolt");
+    }
+ else if (nationaldex == 881)
+{
+console.log("Arctozolt");
+    }
+ else if (nationaldex == 882)
+{
+console.log("Dracovish");
+    }
+ else if (nationaldex == 883)
+{
+console.log("Arctovish");
+    }
+ else if (nationaldex == 884)
+{
+console.log("Duraludon");
+    }
+ else if (nationaldex == 885)
+{
+console.log("Dreepy");
+    }
+ else if (nationaldex == 886)
+{
+console.log("Drakloak");
+    }
+ else if (nationaldex == 887)
+{
+console.log("Dragapult");
+    }
+ else if (nationaldex == 888)
+{
+console.log("Zacian");
+    }
+ else if (nationaldex == 889)
+{
+console.log("Zamazenta");
+    }
+ else if (nationaldex == 890)
+{
+console.log("Eternatus");
+    }
+ else if (nationaldex == 891)
+{
+console.log("Kubfu");
+    }
+ else if (nationaldex == 892)
+{
+console.log("Urshifu");
+    }
+ else if (nationaldex == 893)
+{
+console.log("Zarude");
+    }
+ else if (nationaldex == 894)
+{
+console.log("Regieleki");
+    }
+ else if (nationaldex == 895)
+{
+console.log("Regidrago");
+    }
+ else if (nationaldex == 896)
+{
+console.log("Glastrier");
+    }
+ else if (nationaldex == 897)
+{
+console.log("Spectrier");
+    }
+ else if (nationaldex == 898)
+{
+console.log("Calyrex");
+    }
+else{
+console.log("Numero Invalido");
+}
