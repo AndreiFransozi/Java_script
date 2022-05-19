@@ -3664,6 +3664,27 @@ console.log("Spectrier");
 {
 console.log("Calyrex");
     }
+    else if (nationaldex == 899)
+{
+console.log("Wyrdeer");	
+    else if (nationaldex == 900)
+{
+console.log("Kleavor");
+    else if (nationaldex == 901)
+{
+console.log("Ursaluna");
+    else if (nationaldex == 902)
+{
+console.log("Basculegion");
+    else if (nationaldex == 903)
+{
+console.log("Sneasler");
+    else if (nationaldex == 904)
+{
+console.log("Overqwil");
+    else if (nationaldex == 905)
+{
+console.log("Enamorus");
 else{
 console.log("Numero Invalido");
 }
